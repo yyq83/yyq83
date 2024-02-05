@@ -1,5 +1,6 @@
-### Hi there 👋
+### Profile 👋
 
+--------
 - Python
 - R
 - MATLAB
