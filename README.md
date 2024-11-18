@@ -1,9 +1,9 @@
 ### Hi,我是yyq83 👋  
-- 一枚生物信息从业者
+- 👷🏿‍♂️ 一枚生物信息从业者
 ___
-- Python
-- R
-- MATLAB
+- 🐍 Python
+- 💻 R
+- ⚡ MATLAB
 
   
 <!--
